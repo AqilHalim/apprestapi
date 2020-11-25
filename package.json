@@ -1,0 +1,24 @@
+{
+  "name": "apprestapi",
+  "version": "1.0.0",
+  "description": "Aplikasi Rest API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AqilHalim/apprestapi.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs"
+  ],
+  "author": "halim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AqilHalim/apprestapi/issues"
+  },
+  "homepage": "https://github.com/AqilHalim/apprestapi#readme"
+}
